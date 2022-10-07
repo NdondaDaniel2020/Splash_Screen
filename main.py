@@ -1,5 +1,4 @@
 import sys
-import platform
 from PySide6 import QtCore, QtGui, QtWidgets
 from PySide6.QtCore import (QCoreApplication, QPropertyAnimation, QDate, QDateTime, QMetaObject, QObject, QPoint, QRect,
                           QSize, QTime, QUrl, Qt, QEvent, QEasingCurve)
