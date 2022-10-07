@@ -1,5 +1,7 @@
 # Splash_Screen
  uma interface de incialização
+ 
+ ### Requisito
 * Package PySide6
 
 
